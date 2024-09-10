@@ -62,7 +62,7 @@ A continuación se muestra la tabla de los **Resultados de Aprendizaje (RA)** co
 | 3. Prepara archivos multimedia para la Web, analizando sus características y manejando herramientas específicas.| 3        |                          | 15%                                 |
 | 4. Integra contenido multimedia en documentos Web valorando su aportación y seleccionando los elementos interactivos. | 4    |                          | 20%                                 |
 | 5. Desarrolla interfaces Web accesibles, analizando las pautas establecidas y aplicando técnicas de verificación. | 5    |                       | 7.5%                                |
-| 6. Desarrolla interfaces Web amigables, analizando y aplicando las pautas de usabilidad establecidas.           | 5        |                         |                               |
+| 6. Desarrolla interfaces Web amigables, analizando y aplicando las pautas de usabilidad establecidas.           | 6        |                         |  7.5%                             |
 |                                                                                                    |             | 50%        | 100% 
 
 ---

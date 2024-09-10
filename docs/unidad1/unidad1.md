@@ -180,7 +180,7 @@ Las fases principales del proceso de diseño son:
     - Se tienen que generar soluciones adecuadas a las necesidades del usuario.
 
 
-## **1.1.3 Percepción Visual**
+### **1.1.3 Percepción Visual**
 
 !!! info "Percepción Visual"
     La **Percepción Visual** se trata del proceso mediante el cual el cerebro capta la información en forma de luz del exterior y la transforma en una recreación propia.
@@ -195,7 +195,7 @@ Las fases principales del proceso de diseño son:
 > **Percibir no es recibir pasivamente información visual.**
 
 
-## **1.1.4 Fundamentos de la Composición**
+### **1.1.4 Fundamentos de la Composición**
 
 !!! info "Componer"
     **Componer** es ordenar los elementos visuales de forma adecuada a nuestra comunicación y necesidades.
@@ -219,7 +219,7 @@ Las fases principales del proceso de diseño son:
 
 
 
-## **1.1.5 Elegancia y Simplicidad**
+### **1.1.5 Elegancia y Simplicidad**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
@@ -266,7 +266,7 @@ Las fases principales del proceso de diseño son:
 !!! tip "Simplicidad"
     **Simplicidad** es la clave para maximizar la efectividad de un diseño. Menos es más: los diseños simples se reconocen mejor y son más "usables" que los complejos.
 
-## **1.1.6 Principios de Elegancia y Simplicidad**
+### **1.1.6 Principios de Elegancia y Simplicidad**
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 

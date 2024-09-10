@@ -193,3 +193,113 @@ Las fases principales del proceso de diseño son:
 
 
 > **Percibir no es recibir pasivamente información visual.**
+
+
+## **1.1.4 Fundamentos de la Composición**
+
+!!! info "Componer"
+    **Componer** es ordenar los elementos visuales de forma adecuada a nuestra comunicación y necesidades.
+
+---
+
+### **Principios de la composición:**
+
+> **No hay nada que garantice que un diseño es adecuado, pero se pueden seguir ciertas guías de composición basadas en la percepción.**
+
+> **La experiencia es una ayuda a la hora de empezar a diseñar. Ante la falta de experiencia, podemos visitar muchas páginas diferentes relacionadas con el trabajo que vamos a desarrollar.**
+
+---
+
+### **Factores importantes:**
+
+- **Componentes psicosomáticos del sistema nervioso**: cómo el cerebro recoge la información y la interpreta.
+- **Componentes culturales**: los códigos de colores no son los mismos en todas las culturas. Por ejemplo, el negro es luto en algunas culturas, mientras que en otras es el blanco.unos y en otros es el blanco. O por ejemplo, el modo en que se lee un texto, es distinto en occidente que en oriente.
+- **Experiencias personales**: la experiencia personal puede influir en el modo de leer o interpretar un diseño.
+
+
+
+
+## **1.1.5 Elegancia y Simplicidad**
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <div style="flex-basis: 60%;">
+    <ul>
+      <li><strong>Elegancia:</strong> Elegir cuidadosamente, refinamiento.</li>
+      <ul>
+        <li>Selección cuidada de elementos.</li>
+      </ul>
+
+      <li><strong>Simplicidad:</strong> La capacidad de elegir los elementos mínimos y más acordes a un problema.</li>
+      <ul>
+        <li>Diseños simples se aprenden antes y mejor.</li>
+        <li>Diseños simples se reconocen mejor y de forma más sencilla.</li>
+        <li>Diseños simples tienen un impacto mayor que los complejos.</li>
+        <li>Diseños simples son más "usables" que los complejos.</li>
+      </ul>
+    </ul>
+  </div>
+
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+
+  <div style="width: 150px; height: 150px; background-color: #f28c28; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; text-align: center; font-weight: bold;">
+    ELEGANCIA <br> Y <br> SIMPLICIDAD
+  </div>
+
+  <div style="width: 150px; height: 150px; background-color: #f2d28c; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; text-align: center; font-weight: bold;">
+    ESCALA, <br> CONTRASTE <br> Y <br> PROPORCIÓN
+  </div>
+
+  <div style="width: 150px; height: 150px; background-color: #8cf28d; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; text-align: center; font-weight: bold;">
+    ORGANIZACIÓN <br> Y <br> ESTRUCTURA <br> VISUAL
+  </div>
+
+</div>
+
+---
+
+!!! info "Elegancia"
+    **Elegancia** implica elegir cuidadosamente y refinar cada elemento para que el diseño sea estéticamente placentero y eficiente.
+
+!!! tip "Simplicidad"
+    **Simplicidad** es la clave para maximizar la efectividad de un diseño. Menos es más: los diseños simples se reconocen mejor y son más "usables" que los complejos.
+
+## **1.1.6 Principios de Elegancia y Simplicidad**
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+  <div style="flex-basis: 60%;">
+    <h4><strong>PRINCIPIOS</strong></h4>
+    <ul>
+      <li><strong>Unidad:</strong> Los diseños más elegantes producen máxima satisfacción con mínimo número de elementos.</li>
+      <li><strong>Refinamiento:</strong> El diseño se realiza mediante sucesivos refinamientos, partiendo de una interfaz más compleja y eliminando lo superfluo.</li>
+      <li><strong>Fitness:</strong> Los diseños se evalúan en conjunto, junto a la capacidad para resolver el problema concreto.</li>
+    </ul>
+  </div>
+
+  <div style="flex-basis: 35%; text-align: center;">
+    <a href="https://www.fijiwater.com/" target="_blank">
+      <img src="../img/elegante.png" alt="Ejemplo de Diseño Elegante" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    <a href="https://dribbble.com/tags/surfing-website" target="_blank">
+      <img src="../img/surf.png" alt="Ejemplo de Diseño Surf" style="max-width: 100%; border-radius: 10px; margin-bottom: 10px;">
+    </a>
+    <a href="https://www.myswitzerland.com/es-es/destinos/naturaleza/" target="_blank">
+      <img src="../img/suiza.png" alt="Ejemplo de Diseño Naturaleza" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+
+</div>
+
+---
+
+!!! success "Principio de Unidad"
+    Los diseños más elegantes producen máxima satisfacción utilizando el mínimo número de elementos. 
+
+!!! note "Principio de Refinamiento"
+    El diseño requiere sucesivos refinamientos para eliminar lo superfluo y mejorar la eficiencia visual.
+
+!!! quote "Principio de Fitness"
+    El diseño debe resolver el problema concreto y ser evaluado en conjunto con sus objetivos.

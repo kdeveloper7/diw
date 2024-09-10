@@ -186,10 +186,10 @@ Las fases principales del proceso de diseño son:
     La **Percepción Visual** se trata del proceso mediante el cual el cerebro capta la información en forma de luz del exterior y la transforma en una recreación propia.
 
 ---
-
 ### **Acciones relacionadas con la percepción visual**:
 
-![Acciones Percepción Visual](../img/per-visual.png)
+[![Acciones Percepción Visual](../img/per-visual.png)](https://www.erco.com/es/planificacion-de-iluminacion/conocimientos-luminotecnicos/percepcion-visual/)
+
 
 
 > **Percibir no es recibir pasivamente información visual.**

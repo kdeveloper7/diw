@@ -1,0 +1,967 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../..">
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.34">
+    
+    
+      
+        <title>Unidad 1. - Planificación de Interfaces Gráficas - Diseño de Interfaces Web</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.35f28582.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    
+      <link rel="stylesheet" href="../../css/custom.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#0-introduccion" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Diseño de Interfaces Web" class="md-header__button md-logo" aria-label="Diseño de Interfaces Web" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Diseño de Interfaces Web
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Unidad 1. - Planificación de Interfaces Gráficas
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="#61DAFB" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="#61DAFB" data-md-color-accent="indigo"  aria-label="Switch to automatic mode"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to automatic mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Diseño de Interfaces Web" class="md-nav__button md-logo" aria-label="Diseño de Interfaces Web" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Diseño de Interfaces Web
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Unidad 1. - Planificación de Interfaces Gráficas
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Unidad 1. - Planificación de Interfaces Gráficas
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#0-introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      0. Introducción
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#01-interfaz-de-usuario-ui" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.1 Interfaz de usuario (UI)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#02-tipos-de-interfaz-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.2 Tipos de interfaz de usuario
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#03-experiencia-de-usuario-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.3 Experiencia de usuario (UX)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#04-ux-user-experience" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.4 UX (User Experience)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="0.4 UX (User Experience)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conceptos-fundamentales" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conceptos fundamentales
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#diseno-centrado-en-el-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diseño centrado en el usuario
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#metodologia-agile" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodología Agile
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#principios-del-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      Principios del diseño
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#metodos-para-el-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      Métodos para el UX
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ui-versus-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      UI versus UX
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sistemas-de-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sistemas de Diseño
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#unidad-1-planificacion-de-interfaces-graficas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Unidad 1: Planificación de Interfaces Gráficas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Unidad 1: Planificación de Interfaces Gráficas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introducción
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#11-elementos-del-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1. Elementos del Diseño
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#introduccion_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introducción
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Introducción">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#111-fases-del-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.1 Fases del diseño
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#112-generalidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.2 Generalidades
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#113-percepcion-visual" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.3 Percepción Visual
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.1.3 Percepción Visual">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#acciones-relacionadas-con-la-percepcion-visual" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acciones relacionadas con la percepción visual:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#0-introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      0. Introducción
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#01-interfaz-de-usuario-ui" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.1 Interfaz de usuario (UI)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#02-tipos-de-interfaz-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.2 Tipos de interfaz de usuario
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#03-experiencia-de-usuario-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.3 Experiencia de usuario (UX)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#04-ux-user-experience" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.4 UX (User Experience)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="0.4 UX (User Experience)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conceptos-fundamentales" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conceptos fundamentales
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#diseno-centrado-en-el-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Diseño centrado en el usuario
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#metodologia-agile" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodología Agile
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#principios-del-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      Principios del diseño
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#metodos-para-el-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      Métodos para el UX
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ui-versus-ux" class="md-nav__link">
+    <span class="md-ellipsis">
+      UI versus UX
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sistemas-de-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sistemas de Diseño
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#unidad-1-planificacion-de-interfaces-graficas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Unidad 1: Planificación de Interfaces Gráficas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Unidad 1: Planificación de Interfaces Gráficas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introducción
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#11-elementos-del-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1. Elementos del Diseño
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#introduccion_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introducción
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Introducción">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#111-fases-del-diseno" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.1 Fases del diseño
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#112-generalidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.2 Generalidades
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#113-percepcion-visual" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.1.3 Percepción Visual
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1.1.3 Percepción Visual">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#acciones-relacionadas-con-la-percepcion-visual" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acciones relacionadas con la percepción visual:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h2 id="0-introduccion"><strong>0. Introducción</strong></h2>
+<p><strong>Debate inicial</strong></p>
+<ul>
+<li>¿Qué es una interfaz de usuario?</li>
+<li>¿Dónde podemos encontrar interfaces de usuario?</li>
+<li>¿En quién tenemos que pensar cuando creamos una interfaz de usuario?</li>
+<li>¿Qué herramientas conoces para el diseño y programación de interfaces?</li>
+<li>¿Qué lenguajes conoces para definir interfaces de usuario?</li>
+<li>¿Qué es UI - UX?</li>
+</ul>
+<p><img alt="Meme clientes users" src="../img/meme-clients-users.png" /></p>
+<h2 id="01-interfaz-de-usuario-ui"><strong>0.1 Interfaz de usuario (UI)</strong></h2>
+<ul>
+<li>Es el punto de interacción y comunicación humano-computadora en un dispositivo. </li>
+<li>Esto puede incluir pantallas de visualización, teclados, un mouse y la apariencia de un escritorio.  </li>
+<li>No está limitado a aplicaciones informáticas. Una lavadora, un automóvil o un mando a distancia también son interfaces de usuario. </li>
+</ul>
+<p>Fuente: <a href="https://www.computerweekly.com/es/definicion/Interfaz-de-usuario-UI">Computer Weekly</a></p>
+<p><strong>Ejemplos de interfaz de usuario</strong></p>
+<ul>
+<li>mouse de computadora</li>
+<li>control remoto</li>
+<li>realidad virtual</li>
+<li>cajeros automáticos (ATM)</li>
+<li>velocímetro</li>
+<li>pantalla táctil </li>
+<li>lavavajillas</li>
+<li>automóvil</li>
+</ul>
+<p><img alt="interfaces" src="../img/interfaces.png" /></p>
+<h2 id="02-tipos-de-interfaz-de-usuario"><strong>0.2 Tipos de interfaz de usuario</strong></h2>
+<p>Tipos de interfaz según la forma de interactuar del usuario:</p>
+<ul>
+<li><a href="https://es.wikipedia.org/wiki/Interfaz_de_l%C3%ADnea_de_comandos">CLI</a> (Command-Line Interface): interfaz de línea de comandos. Sólo representan texto. El teclado es el periférico preferido. </li>
+<li><a href="https://es.wikipedia.org/wiki/Interfaz_gr%C3%A1fica_de_usuario">GUI</a> (Graphic User Interface): Permiten comunicarse con la computadora de forma rápida e intuitiva representando gráficamente los elementos de control y medida. El ratón (y el teclado) es el dispositivo periférico preferido. </li>
+<li><a href="https://es.wikipedia.org/wiki/Interfaz_natural_de_usuario">NUI</a> (Natural User Interface): Pueden ser táctiles, representando gráficamente un «panel de control» o mediante reconocimiento del habla. </li>
+</ul>
+<p><img alt="tipos interfaz" src="../img/tipos-interfaz.png" /></p>
+<p>Fuente: <a href="https://es.wikipedia.org/wiki/Interfaz_natural_de_usuario">Wikipedia</a></p>
+<h2 id="03-experiencia-de-usuario-ux"><strong>0.3 Experiencia de usuario (UX)</strong></h2>
+<blockquote>
+<p><em>“La función de los profesionales de la experiencia de usuario no es otra que hacer esta tecnología amigable, satisfactoria, fácil de usar y, por tanto, realmente útil”</em></p>
+<p><a href="https://yusef.es/Experiencia_de_Usuario.pdf">Experiencia de usuario: Principios y métodos, Yusef Hassan Montero</a></p>
+</blockquote>
+<h2 id="04-ux-user-experience"><strong>0.4 UX (User Experience)</strong></h2>
+<ul>
+<li><strong>UX es la manera en que el usuario percibe, siente o interactúa con un sistema o un servicio</strong>. Se trata de la sensación del usuario cuando está en contacto e interactúa con una web, una app o un sistema.</li>
+<li><strong>UX es un grupo de disciplinas</strong>: interacción, arquitectura de la información, animación en diseño, estilo de comunicación.</li>
+<li><strong>UX es un proceso</strong>. No se trata de algo estático; un buen desarrollo de UX involucra una serie de fases para garantizar la calidad de un producto.</li>
+</ul>
+<p>Fuente: <a href="https://www.domestika.org/es/blog/2125-que-es-ux">Strike Heredia - Domestika</a></p>
+<h3 id="conceptos-fundamentales"><strong>Conceptos fundamentales</strong></h3>
+<ul>
+<li><strong>Usabilidad</strong>: es un atributo de calidad de un producto que se refiere sencillamente a su facilidad de uso.</li>
+<li><strong>Accesibilidad</strong>: se refiere a la posibilidad de que pueda ser usado sin problemas por el mayor número de personas posibles, independientemente de las limitaciones propias del individuo o de las derivadas del contexto de uso.</li>
+<li><strong>Arquitectura de información</strong>: “El arte, la ciencia y la práctica de diseñar espacios interactivos comprensibles, que ofrezcan una experiencia de uso satisfactoria facilitando el encuentro entre las necesidades de los usuarios y los contenidos y/o funcionalidades del producto”.</li>
+</ul>
+<p><img alt="usabilidad accesibilidad arquitectura" src="../img/usabilidad-accesibilidad.png" /></p>
+<p>Fuente: <a href="https://yusef.es/Experiencia_de_Usuario.pdf">Experiencia de usuario: Principios y métodos, Yusef Hassan Montero</a></p>
+<h3 id="diseno-centrado-en-el-usuario"><strong>Diseño centrado en el usuario</strong></h3>
+<p>El Diseño Centrado en el Usuario o DCU (UCD, User-Centered Design) hace referencia a una visión o filosofía del diseño en la que el proceso está conducido por información acerca de la audiencia objetiva del producto.</p>
+<p>La principal diferencia del DCU frente a otros enfoques es que su proceso no es secuencial o lineal, sino que presenta ciclos en los que iterativamente se prueba el diseño y se optimiza hasta alcanzar el nivel de calidad requerido.</p>
+<p><img alt="ciclo diseño" src="../img/ciclo-diseio.png" /></p>
+<p>Fuente: <a href="https://yusef.es/Experiencia_de_Usuario.pdf">Experiencia de usuario: Principios y métodos, Yusef Hassan Montero</a></p>
+<h3 id="metodologia-agile"><strong>Metodología Agile</strong></h3>
+<p><img alt="agile" src="../img/agile.png" /></p>
+<ul>
+<li>El manifiesto Agile: <a href="https://www.agilealliance.org/agile101/the-agile-manifesto/">agilealliance.org</a></li>
+<li>SCRUM: <a href="https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)">Wikipedia.org</a></li>
+</ul>
+<h3 id="principios-del-diseno"><strong>Principios del diseño</strong></h3>
+<ul>
+<li>Clasificación</li>
+<li>Color</li>
+<li>Eficiencia</li>
+<li>Error humano</li>
+<li>Estética</li>
+<li>Fotografías</li>
+<li>Iconos</li>
+<li>Inteligencia colectiva</li>
+<li>Jerarquía visual</li>
+<li>Legibilidad e inteligibilidad</li>
+<li>Ley de Fitts</li>
+<li>Mapeo Natural</li>
+<li>Ordenación</li>
+<li>Relevancia</li>
+<li>Taxonomías</li>
+<li>Toma de decisiones</li>
+<li>Visibilidad y retroalimentación</li>
+</ul>
+<p>Para más información consultar: <a href="https://yusef.es/Experiencia_de_Usuario.pdf">Experiencia de usuario: Principios y métodos, Yusef Hassan Montero</a></p>
+<h3 id="metodos-para-el-ux"><strong>Métodos para el UX</strong></h3>
+<ul>
+<li>Analítica Web</li>
+<li>Card Sorting</li>
+<li>Diagramas de interacción</li>
+<li>Diseño modular</li>
+<li>Encuestas y entrevistas</li>
+<li>Evaluación eurística</li>
+<li>Personajes y escenarios</li>
+<li>Pruebas A/B</li>
+<li>Pruebas con usuarios</li>
+<li>ROI</li>
+<li>Wireframes</li>
+</ul>
+<p>Para más información consultar: <a href="https://yusef.es/Experiencia_de_Usuario.pdf">Experiencia de usuario: Principios y métodos, Yusef Hassan Montero</a></p>
+<h2 id="ui-versus-ux"><strong>UI versus UX</strong></h2>
+<p><img alt="UI versus UX" src="../img/ui-vs-ux.png" /></p>
+<h2 id="sistemas-de-diseno"><strong>Sistemas de Diseño</strong></h2>
+<p>Un <strong>sistema de diseño</strong> es un conjunto de <strong>principios, componentes, guías y herramientas</strong> que permiten mantener la coherencia y escalabilidad en el desarrollo de productos digitales (aplicaciones, sitios web, etc.).</p>
+<p>Se enfoca tanto en el diseño visual como en la experiencia del usuario y el código. Su objetivo es facilitar la <strong>colaboración entre diseñadores y desarrolladores</strong>, al tiempo que garantiza la consistencia en todo el producto.</p>
+<p><img alt="Sistemas de diseño" src="../img/sistemadisenio.png" /></p>
+<p>Fuente: <a href="https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/">designerup.co</a></p>
+<hr />
+<h1 id="unidad-1-planificacion-de-interfaces-graficas"><strong>Unidad 1: Planificación de Interfaces Gráficas</strong></h1>
+<h3 id="introduccion"><strong>Introducción</strong></h3>
+<p>El diseño de interfaces gráficas para la web es un proceso previo de configuración mental, que consiste en la búsqueda de una solución adecuada en cualquier campo. Este proceso implica la investigación, análisis, modelado y ajustes.</p>
+<h2 id="11-elementos-del-diseno"><strong>1.1. Elementos del Diseño</strong></h2>
+<h2 id="introduccion_1"><strong>Introducción</strong></h2>
+<blockquote>
+<p><strong>DISEÑO</strong> se define como el proceso previo de configuración mental, "pre-figuración", en la búsqueda de una solución en cualquier campo.</p>
+</blockquote>
+<hr />
+<h3 id="111-fases-del-diseno"><strong>1.1.1 Fases del diseño</strong></h3>
+<p>Las fases principales del proceso de diseño son:</p>
+<p><img alt="Fases del Diseño" src="../img/fases-disenio.png" />  </p>
+<hr />
+<ul>
+<li>Diseñar es una tarea compleja y dinámica.</li>
+<li>Es la integración de un conjunto de requisitos técnicos, sociales y económicos, de necesidades biológicas con efectos psicológicos y de materiales, forma, color, volumen y espacio, todo ello pensado e interrelacionado con el entorno.</li>
+<li>Las personas dedicadas al diseño deben comunicar las ideas y conceptos de una forma clara y directa, por medio de los elementos gráficos.</li>
+</ul>
+<h3 id="112-generalidades"><strong>1.1.2 Generalidades</strong></h3>
+<p><img alt="Diseño Web" src="../img/web-design.avif" /></p>
+<div class="admonition tip">
+<p class="admonition-title">Diseño de Interfaces Web</p>
+<ul>
+<li>El diseño de la página web afectará directamente la satisfacción del usuario.</li>
+<li>Las primeras impresiones se obtienen del diseño visual, seguidas de la funcionalidad.</li>
+<li>Se debe buscar equilibrio entre todos los elementos de la página, buscando siempre un sentido gráfico y una comunicación eficaz.</li>
+<li>Se tienen que generar soluciones adecuadas a las necesidades del usuario.</li>
+</ul>
+</div>
+<h2 id="113-percepcion-visual"><strong>1.1.3 Percepción Visual</strong></h2>
+<div class="admonition info">
+<p class="admonition-title">Percepción Visual</p>
+<p>La <strong>Percepción Visual</strong> se trata del proceso mediante el cual el cerebro capta la información en forma de luz del exterior y la transforma en una recreación propia.</p>
+</div>
+<hr />
+<h3 id="acciones-relacionadas-con-la-percepcion-visual"><strong>Acciones relacionadas con la percepción visual</strong>:</h3>
+<p><img alt="Acciones Percepción Visual" src="../img/per-visual.png" /></p>
+<blockquote>
+<p><strong>Percibir no es recibir pasivamente información visual.</strong></p>
+</blockquote>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.copy", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.07f07601.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

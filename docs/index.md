@@ -7,11 +7,11 @@ Bienvenidos al módulo de **Diseño de Interfaces Web (DIW)**, donde exploraremo
 
 ---
 
-Te invito a que revises la **[Programación Didáctica](https://docs.google.com/document/d/191Lf5I5oZgAO87bs2ZUu70imJ4ceVAMC/edit?usp=sharing&ouid=107356951028877771072&rtpof=true&sd=true)** del curso, donde encontrarás el contenido completo y los objetivos que esperamos alcanzar juntos.
+Te invito a que revises la **[Programación Didáctica](https://docs.google.com/document/d/1RFxbK-VYEuIXlCKgL4Aiqoc_87WnetZo/edit?usp=sharing&ouid=107356951028877771072&rtpof=true&sd=true)** del curso, donde encontrarás el contenido completo y los objetivos que esperamos alcanzar juntos.
 
 ## **Evaluación del curso**
 
-En este curso, la evaluación será continua y se basará tanto en tus actividades diarias como en exámenes teóricos y prácticos. A continuación te explico el proceso de evaluación:
+En este curso, la evaluación será continua y se basará tanto en tus actividades diarias como en pruebas teóricas y prácticas. A continuación te explico el proceso de evaluación:
 
 ### **1. Documentación de trabajo**
 Al inicio de cada unidad, deberás crear un documento en **Google Docs** en el que registrarás las actividades propuestas. En este documento, realizarás y documentarás todas las tareas asignadas. Este documento será revisado de manera colaborativa o individual por el profesor.
@@ -22,16 +22,16 @@ Al inicio de cada unidad, deberás crear un documento en **Google Docs** en el q
 Al final de cada unidad, se te asignará un **Google Docs colaborativo** donde, en grupos, deberán resolver algunos ejercicios. Cada estudiante tendrá la oportunidad de aportar una solución a uno o varios ejercicios, y posteriormente los revisaremos y debatiremos juntos en clase, como parte de la **retroalimentación**. Este proceso no solo te ayudará a entender mejor los conceptos, sino que también será un espacio para compartir y discutir diferentes enfoques y soluciones.
 
 ### **3. Elaboración de preguntas del examen**
-Una de las formas en que te prepararás para el examen teórico será creando las preguntas tú mismo. A cada estudiante, o a un grupo de estudiantes, se le asignará una parte del temario para que formulen **3 preguntas tipo test**. Estas preguntas serán revisadas y seleccionadas para la prueba objetiva final. De esta manera, no solo te prepararás al estudiar el material, sino que también tendrás una visión profunda de los temas al formular preguntas que podrían aparecer en la prueba objetiva. Esta actividad será muy útil para consolidar el aprendizaje y servirá como material preparatorio para toda la clase.
+Una de las formas en que te prepararás para la prueba teórica será creando las preguntas tú mismo. A cada estudiante, o a un grupo de estudiantes, se le asignará una parte del temario para que formulen **Algunas preguntas tipo test**. Estas preguntas serán revisadas y seleccionadas para la prueba objetiva final. De esta manera, no solo te prepararás al estudiar el material, sino que también tendrás una visión profunda de los temas al formular preguntas que podrían aparecer en la prueba objetiva. Esta actividad será muy útil para consolidar el aprendizaje y servirá como material preparatorio para toda la clase.
 
 ### **4. Práctica Global**
 Antes de cada unidad de trabajo, llevarás a cabo una **práctica global** o **supuesto práctico**, el cual será evaluado de forma individual con una rúbrica. Este ejercicio o proyecto te ayudará a consolidar los conocimientos adquiridos durante la unidad.
 
-### **5. Examen final**
-La prueba objetiva final será realizada de una o varias unidades de trabajo:
+### **5. Prueba Objetiva final**
+La prueba objetiva final será realizada de una o varias unidades de trabajo y podrá tener el formato de proyecto, examen o trabajo escrito según lo vea conveniente el profesor para el beneficio del los alumnos:
 
-#### Parte 1: Teoría (40% del examen final)
-- Examen **online** de tipo **test**.
+#### Parte 1: Teoría (40% de la prueba final)
+- Prueba **online** de tipo **test**.
 - Preguntas cerradas con una única respuesta correcta entre cuatro opciones, basadas en las preguntas elaboradas por los propios estudiantes.
 - El examen está cronometrado, con un límite de tiempo (normalmente 30 minutos para 40 preguntas).
 - Por cada **tres respuestas incorrectas**, se te descontará una respuesta correcta.
@@ -39,13 +39,17 @@ La prueba objetiva final será realizada de una o varias unidades de trabajo:
   **Nota final = Respuestas correctas - (Respuestas Incorrectas ÷ 3)**
   
 
-#### Parte 2: Práctica (60% del examen final)
+#### Parte 2: Práctica (60% de la prueba final)
 La segunda parte del examen consistirá en la resolución de un ejercicio práctico o proyecto basado en:
 
 - Las actividades propuestas y resueltas durante la unidad.
 - El **supuesto práctico** que realizaste previamente.
 
 Debes completar ambas partes para poder aprobar el curso.
+
+### **6. Proyecto final**
+
+Después de la primera evaluación se establecerá un **Proyecto Final** el cual recogerá todos los conocimientos adquieridos hasta el momento en una primera entrega denominada V0, a medida que avancen las clases y se adquieran nuevas habilidades el proyecto evolucionará y se darán las nuevas pautas para las entregas parciales en versiones es V1, V2, V3 y una entrega final con el proyecto completo en una versión V4. Este proyecto final servirá como instrumento de evaluación de las Unidades de Trabajo que se traten después de la primera evaluación y su nota corresponderá al procentaje de RREE y CCEE que falten por evaluar. Lo obtenido en la primera evaluación más lo evaluado en el proyecto final será la nota de la Primera Evaluación Ordinaria.
 
 ## **Evaluación de las Unidades de Trabajo (UT)**
 
@@ -117,7 +121,7 @@ En la **Unidad 6**, aprenderás sobre:
 ---
 
 ## **Enlaces y recursos adicionales**
-- **[Guía didáctica del curso](https://docs.google.com/document/d/191Lf5I5oZgAO87bs2ZUu70imJ4ceVAMC/edit?usp=sharing&ouid=107356951028877771072&rtpof=true&sd=true)**
+- **[Guía didáctica del curso](https://docs.google.com/document/d/1RFxbK-VYEuIXlCKgL4Aiqoc_87WnetZo/edit?usp=sharing&ouid=107356951028877771072&rtpof=true&sd=true)**
 
 ---
 

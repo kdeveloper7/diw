@@ -303,3 +303,39 @@ Las fases principales del proceso de diseño son:
 
 !!! quote "Principio de Fitness"
     El diseño debe resolver el problema concreto y ser evaluado en conjunto con sus objetivos.
+
+
+## **1.1.7 Errores Comunes en el Diseño**
+
+!!! warning "Errores Comunes en el Diseño"
+    - **Ruido visual**: Gran cantidad de información puede saturar al usuario.
+    - **Interferencia entre elementos**: Los elementos visuales pueden competir entre sí, dificultando la claridad del mensaje.
+    - **Estructuras complejas visuales**: Diseños excesivamente complejos son difíciles de entender y navegar.
+    - **Reelaborar lo obvio**: Evitar redundancias o pasos innecesarios para los usuarios avanzados.
+    - **Detalles excesivos**: Aportar demasiados detalles puede distraer al usuario y sobrecargar el diseño.
+
+---
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+
+  <div style="width: 50%; text-align: center;">
+
+  <a href="https://www.arngren.net/" target="_blank">
+    <img src="../img/errores-comunes.png" alt="Ejemplo de Errores Comunes en el Diseño" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Este es un ejemplo mítico de un sitio web con muchos errores visuales.</p>
+    </a>
+  </div>
+
+</div>
+
+
+!!! danger "Catástrofes en Interfaces Web"
+    A lo largo de la historia, algunos sitios web se han hecho famosos por sus **errores visuales** y problemas de usabilidad. Aquí tienes algunos ejemplos míticos de catástrofes en interfaces web:
+
+    - [Cine Las Vías (hasta 2018)](https://web.archive.org/web/20180701000000*/http://www.cinelasvias.com)
+    - [Arngren](https://www.arngren.net/)
+    - [Gates and Fences](http://www.gatesnfences.com/)
+    - [Yale Art](http://art.yale.edu)
+    - [Ling's Cars](https://www.lingscars.com/)
+
+    > Estos ejemplos destacan lo que **NO** se debe hacer en el diseño de interfaces web. Pueden servir como recordatorio de los peligros de no cuidar la estética, la funcionalidad y la experiencia de usuario.

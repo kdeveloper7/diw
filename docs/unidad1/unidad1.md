@@ -535,7 +535,7 @@ Las fases principales del proceso de diseño son:
 </div>
 
 
-## **Actividad de Clase I**
+## **Actividad de Clase 1.1**
 
 !!! task "Actividad"
     Realizar un estudio sobre el **diseño visual** de una página web.

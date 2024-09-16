@@ -147,13 +147,13 @@ El diseño de interfaces gráficas para la web es un proceso previo de configura
 
 ## **1.1. Elementos del Diseño**
 
-## **Introducción**
+## **1.1.1 Introducción**
 
 > **DISEÑO** se define como el proceso previo de configuración mental, "pre-figuración", en la búsqueda de una solución en cualquier campo.
 
 ---
 
-### **1.1.1 Fases del diseño**
+### **1.1.2 Fases del diseño**
 
 Las fases principales del proceso de diseño son:
 
@@ -169,7 +169,7 @@ Las fases principales del proceso de diseño son:
 - Las personas dedicadas al diseño deben comunicar las ideas y conceptos de una forma clara y directa, por medio de los elementos gráficos.
 
 
-### **1.1.2 Generalidades**
+### **Generalidades**
 
 ![Diseño Web](../img/web-design.avif)
 
@@ -219,7 +219,7 @@ Las fases principales del proceso de diseño son:
 
 
 
-### **1.1.5 Elegancia y Simplicidad**
+## **1.1.5 Elegancia y Simplicidad**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
@@ -266,7 +266,7 @@ Las fases principales del proceso de diseño son:
 !!! tip "Simplicidad"
     **Simplicidad** es la clave para maximizar la efectividad de un diseño. Menos es más: los diseños simples se reconocen mejor y son más "usables" que los complejos.
 
-### **1.1.6 Principios de Elegancia y Simplicidad**
+### **1.1.5.1 Principios de Elegancia y Simplicidad**
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
@@ -305,7 +305,7 @@ Las fases principales del proceso de diseño son:
     El diseño debe resolver el problema concreto y ser evaluado en conjunto con sus objetivos.
 
 
-## **1.1.7 Errores Comunes en el Diseño**
+### **1.1.5.2 Errores Comunes en el Diseño**
 
 !!! warning "Errores Comunes en el Diseño"
     - **Ruido visual**: Gran cantidad de información puede saturar al usuario.
@@ -339,3 +339,218 @@ Las fases principales del proceso de diseño son:
     - [Ling's Cars](https://www.lingscars.com/)
 
     > Estos ejemplos destacan lo que **NO** se debe hacer en el diseño de interfaces web. Pueden servir como recordatorio de los peligros de no cuidar la estética, la funcionalidad y la experiencia de usuario.
+
+
+### **1.1.5.3 Técnicas de Diseño**
+
+!!! info "Técnicas de Diseño"
+    A la hora de diseñar interfaces web, es fundamental tener en cuenta las siguientes técnicas para lograr un diseño equilibrado y efectivo.
+
+---
+
+### **1.1.5.4 Reducción del diseño a lo esencial**
+- Determinar las cualidades principales.
+- Examinar cada elemento diseñado y preguntarse si es necesario.
+- Tratar de eliminar un elemento y ver qué pasa.
+
+### **1.1.5.5 Regularización de los elementos**
+- Usar los mismos elementos para las mismas funciones.
+- Usar formas simples.
+- Limitar la tipología del texto.
+
+### **1.1.5.5 Combinar elementos para el máximo aprovechamiento**
+- Buscar elementos que solapen funciones.
+- Combinar elementos redundantes en uno solo.
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="https://theteahousestore.com/" target="_blank">
+      <img src="../img/tea-house.png" alt="Ejemplo de Diseño Simple" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de un diseño web simple y equilibrado.</p>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="http://www.cantinachichilo.com.ar/" target="_blank">
+      <img src="../img/chinchilo.png" alt="Ejemplo de Diseño Complejo" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de un diseño web sobrecargado y con ruido visual.</p>
+  </div>
+
+</div>
+
+## **1.1.6 Escala, Contraste y Proporción**
+
+!!! note "Principios de Escala, Contraste y Proporción"
+    - **Escala:** Relación entre el tamaño de los elementos en un diseño.
+    - **Contraste:** Diferencias notables entre formas y dimensiones de los elementos (forma, color, tamaño, textura, posición, orientación, movimiento).
+    - **Proporción:** Balance y armonía entre la relación de los elementos para lograr un diseño cohesivo.
+
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+
+  <div style="flex-basis: 60%;">
+    <h4><strong>PRINCIPIOS</strong></h4>
+    <ul>
+      <li><strong>Claridad:</strong> Intencionalidad para proporcionar organización clara entre los elementos visuales.</li>
+      <li><strong>Armonía:</strong> Buena organización frente a diferentes dispositivos y tamaños de pantalla.</li>
+    </ul>
+  </div>
+
+  <div style="flex-basis: 35%; text-align: center;">
+    <a href="https://amourshops.com/" target="_blank">
+      <img src="../img/amour.png" alt="Ejemplo de Escala, Contraste y Proporción" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de escala, contraste y proporción en un diseño responsive.</p>
+  </div>
+
+</div>
+
+!!! tip "Enlaces recomendados"
+    - [Guía sobre Escala en Diseño](https://www.silocreativo.com/creando-escala-tipografica-diseno-web/)
+    - [Ejemplos de Contraste Visual](https://addaw.org/es/blog/interes-general/Los-mejores-analizadores-de-contraste-de-color)
+
+
+### **1.1.6.1 Errores Comunes**
+
+!!! warning "Errores comunes en diseño de escala, contraste y proporción"
+    - **Contraste insuficiente** o diseños muy complejos que confunden al usuario.
+    - **Contraste excesivo** que genera tensión visual.
+    - **Interferencia visual**: Dificultad en la comunicación debido al mal uso de colores y elementos.
+    - **Tensión espacial**: Poco espacio entre elementos, lo cual impide que el ojo pueda recorrer correctamente el diseño.
+    - **Sobreextensión**: Espacios excesivos entre elementos que también dificultan la navegación visual.
+    - **Dimensiones no proporcionadas**, lo cual rompe con la armonía y claridad visual del diseño.
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="https://www.zara.com/es/en/woman-bags-l1024.html" target="_blank">
+      <img src="../img/zara.png" alt="Ejemplo de Contraste Insuficiente" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de menú con problemas de contraste.</p>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="https://streetxo.com/madrid/es" target="_blank">
+      <img src="../img/street.png" alt="Ejemplo de Sobrecarga Visual" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de una página con sobrecarga visual.</p>
+  </div>
+
+</div>
+
+
+### **1.1.6.2 Técncias de Diseño**
+ 
+
+!!! tip "Técnicas clave para manejar la escala, contraste y proporción"
+    - **Integración por tamaño**: Hacer distinciones visuales claras utilizando el tamaño de los elementos.
+    - **Establecer regiones**: Diseñar distintas regiones visuales variando el tamaño de los elementos dentro de cada área, comparándolas entre sí, pero manteniendo consistencia dentro de la misma región.
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+
+  <div style="flex-basis: 50%; text-align: center;">
+    <a href="https://www.apple.com/es/apple-watch-se/" target="_blank">
+      <img src="../img/apple-watch.png" alt="Apple Watch Design Example" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de uso de escala y proporción en la página de Apple Watch.</p>
+  </div>
+
+  
+
+</div>
+
+
+## **1.1.7 Organización y Estructura Visual**
+
+!!! info "Principios de Organización Visual"
+    - **Agrupar elementos similares**: Centrar la atención sobre los elementos más simples y relacionados.
+    - **Relación**: Usar las relaciones entre elementos para agrupar y organizar visualmente.
+    - **Balance**: La visualización debe ser agradable, las partes de una ventana se deben equilibrar (como una balanza).
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="https://www.frescco.es/" target="_blank">
+    <img src="../img/fresco1.png" alt="Diseño Fresco Web" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de diseño agrupado y organizado visualmente</p>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="https://www.frescco.es/" target="_blank">
+    <img src="../img/fresco2.png" alt="Diseño Fresco Móvil" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Interfaz móvil con equilibrio visual y relación de elementos</p>
+  </div>
+</div>
+
+
+## **1.1.13 Errores Más Comunes en la Organización y Estructura Visual**
+
+!!! warning "Errores Más Comunes en la Organización y Estructura Visual"
+    - **Mala organización**: Falta de estructura clara en el diseño.
+    - **Simetrías conflictivas**: Simetrías mal aplicadas que generan confusión visual.
+    - **Relaciones internas ambiguas**: Organización de etiquetas y controles no clara.
+    - **Alineación de etiquetas y no de controles**: Mal alineamiento de elementos en el diseño.
+    - **Alinear una parte y no el todo**: Falta de coherencia en la alineación de todo el conjunto visual.
+    - **Distribución y agrupamiento inadecuado**: Agrupación poco intuitiva de los elementos.
+    - **Excesiva densidad informativa**: Demasiada información en un espacio reducido, lo cual satura al usuario.
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="https://www.azuqueca.es/" target="_blank">
+      <img src="../img/azuqueca.png" alt="Ejemplo de Errores de Organización" style="max-width: 100%; border-radius: 10px;">
+      <p style="font-size: 0.8em; color: gray;">Ejemplo de un sitio web con problemas de organización y distribución visual.</p>
+    </a>
+  </div>
+</div>
+
+
+## **1.1.14 Técnicas de Diseño para la Organización y Estructura Visual**
+
+!!! info "Técnicas de Diseño"
+    Estas son las principales técnicas a tener en cuenta para organizar y estructurar visualmente una interfaz de forma efectiva:
+
+    - **Una cuidada planificación**: El diseño debe ser planificado cuidadosamente para asegurar un equilibrio visual.
+    - **Simetría para el balance**:
+        - Identificar ejes de simetría y usar simetría vertical.
+        - Centrar la información en el eje y balancearla.
+    - **Alineación**:
+        - Buscar bordes y alinearlos tanto de la página como de las áreas y controles.
+        - Si algo no se puede alinear, hacerlo proporcional a la pantalla y centrarlo.
+    - **Ajuste óptico**: Determinar el tamaño que se considerará normal y usarlo como base.
+    - **Espacio negativo**:
+        - Organizar en trozos de información.
+        - Añadir espacio en donde sea necesario para resaltar.
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  <div style="flex-basis: 45%; text-align: center;">
+  <a href="https://mec-landing-page.vercel.app/#" target="_blank">
+    <img src="../img/montain.png" alt="Ejemplo de Organización y Estructura Visual" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Ejemplo de diseño organizado con simetría y alineación efectiva.</p>
+  </div>
+</div>
+
+
+## **Actividad de Clase I**
+
+!!! task "Actividad"
+    Realizar un estudio sobre el **diseño visual** de una página web.
+
+    Para ello, tendréis que elegir una página web y analizarla tomando como base los elementos estudiados:
+    
+    - **Elegancia y simplicidad**: ¿La página es visualmente atractiva y sencilla de navegar?
+    - **Escala, contraste y proporción**: ¿Los elementos están bien proporcionados y se usan contrastes adecuados?
+    - **Organización y estructura visual**: ¿Los elementos están bien organizados y alineados de manera coherente?
+
+    ### Instrucciones:
+    - Realizad un análisis visual de la página seleccionada y comparadla con las buenas prácticas vistas en clase.
+    - Preparad una **exposición** con vuestras conclusiones para presentar al resto de la clase.
+
+!!! example "Ejemplo de presentación"
+    1. Elige una página web relevante.
+    2. Evalúa su diseño visual utilizando los principios mencionados.
+    3. Presenta los hallazgos destacando las fortalezas y áreas de mejora de la página.

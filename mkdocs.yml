@@ -34,6 +34,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to automatic mode
+text: 'black'  # Esto asegurará que el texto sea negro en todo el proyecto
 
 extra_css:
   - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"

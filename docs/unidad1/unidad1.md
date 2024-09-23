@@ -508,7 +508,6 @@ Las fases principales del proceso de diseño son:
   </div>
 </div>
 
-
 ## **1.1.14 Técnicas de Diseño para la Organización y Estructura Visual**
 
 !!! info "Técnicas de Diseño"
@@ -528,12 +527,10 @@ Las fases principales del proceso de diseño son:
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
   <div style="flex-basis: 45%; text-align: center;">
-  <a href="https://mec-landing-page.vercel.app/#" target="_blank">
     <img src="../img/montain.png" alt="Ejemplo de Organización y Estructura Visual" style="max-width: 100%; border-radius: 10px;">
     <p style="font-size: 0.8em; color: gray;">Ejemplo de diseño organizado con simetría y alineación efectiva.</p>
   </div>
 </div>
-
 
 ## **Actividad de Clase 1.1**
 
@@ -554,3 +551,337 @@ Las fases principales del proceso de diseño son:
     1. Elige una página web relevante.
     2. Evalúa su diseño visual utilizando los principios mencionados.
     3. Presenta los hallazgos destacando las fortalezas y áreas de mejora de la página.
+
+# **1.2. Color, Tipografía e Iconos**
+
+## **Introducción**
+
+!!! info "Introducción"
+    Al margen de que un diseño sea más o menos atractivo o artístico, quien diseña y desarrolla una **interfaz de usuario** debe tener en cuenta una serie de normas para hacer que esa interfaz sea más fácil de utilizar por el usuario.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+  <div style="width: 150px; height: 150px; background-color: #f28c28; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; text-align: center; font-weight: bold;">
+    COLOR
+  </div>
+
+  <div style="width: 150px; height: 150px; background-color: #8cf28d; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; text-align: center; font-weight: bold;">
+    TIPOGRAFÍA
+  </div>
+
+  <div style="width: 150px; height: 150px; background-color: #f2d28c; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; text-align: center; font-weight: bold;">
+    ICONOS
+  </div>
+</div>
+
+---
+
+!!! note "Elementos Primordiales del Diseño"
+    - El **color**, la **tipografía** y los **iconos** son elementos esenciales en el diseño visual. Estos contribuyen a la identidad y funcionalidad de una interfaz.
+
+!!! tip "Infinitas Posibilidades"
+    - Las combinaciones entre **color**, **tipografía** e **iconos** son infinitas. Sin embargo, es esencial buscar un equilibrio que permita una comunicación clara y efectiva.
+
+---
+
+### **1.2.1 Color**
+
+!!! quote "Importancia del Color"
+    El color es una de las herramientas más potentes en el diseño, ya que influye en la percepción y las emociones del usuario. Es fundamental elegir paletas de colores que transmitan el mensaje adecuado y faciliten la navegación.
+
+!!! note "¿Qué es el color?"
+    El **COLOR** es una propiedad que tienen los objetos y que podemos percibir gracias a la luz.
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <div style="flex-basis: 45%; text-align: center; background-color: #f28c28; color: white; padding: 20px; border-radius: 10px;">
+    El COLOR es una propiedad que tienen los objetos y que podemos percibir gracias a la luz.
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <img src="../img/espectro-visible.webp" alt="Espectro visible" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Espectro visible al ojo humano</p>
+  </div>
+</div>
+
+---
+
+### **1.2.2 Propiedades del Color**
+
+
+
+Las propiedades del color son aquellos atributos que cambian y hacen único a cada color. Son tres: el tono, la saturación y la luminosidad.
+
+---
+
+- **Tono o matiz (Hue):** Es la propiedad que diferencia un color de otro y por la cual designamos los nombres de los colores. Los tres matices primarios son los clores aditivos : verde, rojo y azul; el resto de los colores se obtienen
+                          mezclando estos tres.
+
+!!! note "Colores Complementarios"
+    El **matiz** permite definir dos colores como complementarios cuando uno está frente al otro en el círculo cromático
+
+
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
+    <a href="https://color.adobe.com/es/create/color-wheel" target="_blank">
+      <img src="../img/tono.png" alt="Tono del Color" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+
+- **Saturación (Saturation):** Es la intensidad o pureza de un color, y varía según la cantidad de luz que tenga, por lo tanto, queda condicionado por el nivel de gris presente en un color. Cuanto mayor sea el nivel de gris, menos saturado será un color , y será menos intenso.
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
+    <a href="#" target="_blank">
+      <img src="../img/saturacion.png" alt="Saturación del Color" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+
+- **Luminosidad (lightnesso) o brillo (Brightness):** Es la cantidad de luz que refleja un color, es decir, cómo es de oscuro o de claro.
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
+    <a href="https://www.w3schools.com/colors/colors_monochromatic.asp" target="_blank">
+      <img src="../img/luminosidad.png" alt="Luminosidad del Color" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <div style="flex-basis: 50%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/propiedades-color.png" alt="Propiedades del Color" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+  
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/circulo-cromatico.png" alt="Círculo cromático" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+</div>
+
+
+!!! note "Tipos de Colores"
+    El **matiz** permite definir dos colores como complementarios cuando uno está frente al otro en el círculo cromático
+
+    <div style="flex-basis: 45%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/tipo-colores.png" alt="tipo de colores" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+
+
+!!! note "Emociones asociadas a los colores"
+Las siguientes imágenes reflejan las emociones y actitudes mentales asociadas a los colores, además, algunas las marcas corporativas que los han implementado.
+
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <div style="flex-basis: 50%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/marketing-digital.png" alt="Colores y Emociones" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+  
+  <div style="flex-basis: 45%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/emociones-color.png" alt="Emociones y colores" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+</div>
+
+
+### **1.2.3 Color en Informática**
+
+
+
+- **Usan dos tipos de colores según el dispositivo:**
+  
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+    <div style="text-align: center;">
+      <img src="../img/rgb.png" alt="Esquema RGB" style="max-width: 150px; border-radius: 10px;">
+      <p><strong>RGB(RedGreenBlue)</strong>para dispositivos que emiten luz.</p>
+    </div>
+  
+    <div style="text-align: center;">
+      <img src="../img/cmyk.png" alt="Esquema CMYK" style="max-width: 150px; border-radius: 10px;">
+      <p><strong>CMYK (CyanYellowMagentaBlack)</strong> para dispositivos de impresión.</p>
+    </div>
+</div>
+---
+
+!!! info "Color en Dispositivos"
+    En informática, se utilizan dos tipos de colores según el dispositivo que estemos usando:
+
+    - **RGB (Red, Green, Blue)** para dispositivos que emiten luz.
+    - **CMYK (Cyan, Yellow, Magenta, Black)** para dispositivos de impresión.
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+
+  <div style="flex-basis: 35%; background-color: #d49e29; padding: 20px; border-radius: 10px; color: #000;">
+    <p><strong>Esquema de color RGB:</strong></p>
+    <p><strong>Rojo:</strong> FF0000</p>
+    <p><strong>Verde:</strong> 00FF00</p>
+    <p><strong>Azul:</strong> 0000FF</p>
+    <p><strong>Blanco:</strong> FFFFFF</p>
+    <p><strong>Negro:</strong> 000000</p>
+    <p><strong>Gris:</strong> CCCCCC</p>
+  </div>
+
+</div>
+
+---
+
+### **1.2.4 Herramienta interactiva: Cambia el color con CSS en tiempo real**
+
+Inserta los valores de color en RGB y observa cómo cambia el color en tiempo real. Además, ahora puedes ver el código hexadecimal del color seleccionado.
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cambiar Colores en Tiempo Real</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .color-box, .color-preview {
+      width: 50px;
+      height: 50px;
+      display: inline-block;
+      margin-left: 10px;
+      vertical-align: middle;
+      border: 1px solid #000;
+    }
+    .color-preview {
+      border-radius: 50%;
+    }
+    .color-box.result {
+      width: 100px;
+      height: 100px;
+      margin-top: 20px;
+    }
+    .hex-code {
+      font-family: monospace;
+      font-weight: bold;
+      margin-left: 10px;
+      display: inline-block;
+      padding: 5px 10px;
+      background-color: #333;
+      color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    .slider-wrapper {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    .slider-wrapper label {
+      min-width: 100px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Cambia el color con RGB:</h2>
+  
+  <div class="slider-wrapper">
+    <label for="red">Rojo (R):</label>
+    <input type="range" id="red" name="red" min="0" max="255" value="255">
+    <div class="color-preview" id="previewRed"></div>
+    <span class="hex-code" id="hexRed">#FF0000</span>
+  </div>
+
+  <div class="slider-wrapper">
+    <label for="green">Verde (G):</label>
+    <input type="range" id="green" name="green" min="0" max="255" value="0">
+    <div class="color-preview" id="previewGreen"></div>
+    <span class="hex-code" id="hexGreen">#00FF00</span>
+  </div>
+
+  <div class="slider-wrapper">
+    <label for="blue">Azul (B):</label>
+    <input type="range" id="blue" name="blue" min="0" max="255" value="0">
+    <div class="color-preview" id="previewBlue"></div>
+    <span class="hex-code" id="hexBlue">#0000FF</span>
+  </div>
+
+  <div class="color-box result" id="colorBox"></div>
+  <div>Color Hexadecimal Completo: <span class="hex-code" id="hexCode">#FF0000</span></div>
+
+  <script>
+    const red = document.getElementById('red');
+    const green = document.getElementById('green');
+    const blue = document.getElementById('blue');
+    const colorBox = document.getElementById('colorBox');
+    const hexCode = document.getElementById('hexCode');
+    const hexRed = document.getElementById('hexRed');
+    const hexGreen = document.getElementById('hexGreen');
+    const hexBlue = document.getElementById('hexBlue');
+    const previewRed = document.getElementById('previewRed');
+    const previewGreen = document.getElementById('previewGreen');
+    const previewBlue = document.getElementById('previewBlue');
+
+    function componentToHex(c) {
+      const hex = c.toString(16);
+      return hex.length === 1 ? "0" + hex : hex;
+    }
+
+    function rgbToHex(r, g, b) {
+      return `#${componentToHex(r)}${componentToHex(g)}${componentToHex(b)}`.toUpperCase();
+    }
+
+    function updateColor() {
+      const r = parseInt(red.value);
+      const g = parseInt(green.value);
+      const b = parseInt(blue.value);
+
+      const hexR = `#${componentToHex(r)}0000`.toUpperCase();
+      const hexG = `#00${componentToHex(g)}00`.toUpperCase();
+      const hexB = `#0000${componentToHex(b)}`.toUpperCase();
+
+      // Actualiza los previews y hexadecimales parciales
+      previewRed.style.backgroundColor = `rgb(${r}, 0, 0)`;
+      previewGreen.style.backgroundColor = `rgb(0, ${g}, 0)`;
+      previewBlue.style.backgroundColor = `rgb(0, 0, ${b})`;
+
+      hexRed.textContent = hexR;
+      hexGreen.textContent = hexG;
+      hexBlue.textContent = hexB;
+
+      // Color completo y código hexadecimal
+      const hex = rgbToHex(r, g, b);
+      colorBox.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;
+      hexCode.textContent = hex;
+    }
+
+    red.addEventListener('input', updateColor);
+    green.addEventListener('input', updateColor);
+    blue.addEventListener('input', updateColor);
+
+    updateColor();  // Set initial color
+  </script>
+
+</body>
+</html>
+
+
+!!! note "Ejemplo de RGB"
+    Comprueba en la herramienta que para formar el color amarillo se debe realizar la combinación del ejemplo
+
+    <div style="flex-basis: 45%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/ejemplo-rgb.png" alt="tipo de colores" style="max-width: 100%; border-radius: 10px;">
+    </a>
+  </div>
+
+### **1.2.5 Paleta de colores**
+
+!!! note "Paleta de Color"
+    Se define **PALETA DE COLOR** como el conjunto de colores que usamos en el desarrollo.
+
+
+!!! tip "Importancia de la Paleta de Color"
+    Se debe elegir una paleta de colores antes de comenzar a diseñar y debe estar relacionada con el proyecto que vamos a crear.
+
+---
+
+
+
+

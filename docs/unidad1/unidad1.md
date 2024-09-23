@@ -882,6 +882,296 @@ Inserta los valores de color en RGB y observa cómo cambia el color en tiempo re
 
 ---
 
+## **1.2.5 Reglas para Crear tu Paleta de Colores**
+
+!!! tip "Reglas Básicas para una Paleta de Colores"
+    Sigue estas 3 reglas para crear una paleta de colores equilibrada y visualmente atractiva.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+
+  <div style="text-align: center;">
+    <div style="width: 150px; height: 150px; background-color: #F7DC6F; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; font-size: 1.5em; font-weight: bold;">
+      1
+    </div>
+    <p style="font-size: 1em; margin-top: 10px;">Combina el tono total de la infografía</p>
+  </div>
+
+  <div style="text-align: center;">
+    <div style="width: 150px; height: 150px; background-color: #f28c28; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; font-size: 1.5em; font-weight: bold;">
+      2
+    </div>
+    <p style="font-size: 1em; margin-top: 10px;">Elige colores que funcionen bien juntos</p>
+  </div>
+
+  <div style="text-align: center;">
+    <div style="width: 150px; height: 150px; background-color: #8cf28d; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; font-size: 1.5em; font-weight: bold;">
+      3
+    </div>
+    <p style="font-size: 1em; margin-top: 10px;">Elige 2 o 3 colores como máximo</p>
+  </div>
+
+</div>
+
+!!! tip "Sugerencias adicionales"
+    - No sobrecargues tu diseño con demasiados colores.
+    - Asegúrate de que los colores que elijas mantengan una armonía y balance en toda la interfaz.
+
+### **1. Combina el tono total de la infografía**: Elige colores que se adapten a la marca.
+
+Ejemplos: Si la infografía es sobre una película de terror, elige colores oscuros y sombras. Si hablas sobre barcos, entonces selecciona un matiz azul y juega con el tinte, el tono, y la sombra. Si es una infografía de negocios, no utilices colores brillantes y divertidos como el amarillo o el naranja.
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="../img/cocacola-infografia.png" alt="Ejemplo Coca-Cola" style="max-width: 100%; border-radius: 10px;">
+</div>
+
+---
+
+!!! example "Ejemplo de Coca-Cola"
+    El sitio web de Coca-Cola es un buen ejemplo de cómo se utilizan los colores de la marca para generar una sensación de cohesión visual.
+    - Los colores rojo y blanco dominan toda la interfaz.
+    - Se usa un color neutro para destacar la marca sin saturar al usuario.
+
+### **2. Elige colores que funcionen bien juntos**
+
+El primer paso es entender y visualizar el **círculo cromático**. Este gráfico muestra los distintos matices y sus tonos, tintes, y sombras, y cómo se relacionan entre ellos.
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="../img/circulo-cromatico.png" alt="Círculo Cromático" style="max-width: 50%; border-radius: 10px;">
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+  <div style="flex-basis: 45%; text-align: center;">
+    <img src="../img/colores-correctos.png" alt="Paleta de Colores Correctos" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Paleta de colores que funcionan bien juntos.</p>
+  </div>
+  <div style="flex-basis: 45%; text-align: center;">
+    <img src="../img/colores-incorrectos.png" alt="Paleta de Colores Incorrectos" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Paleta de colores que no funcionan bien juntos.</p>
+  </div>
+</div>
+
+---
+
+!!! tip "Herramienta útil"
+    Utiliza la herramienta [Adobe Color](https://color.adobe.com) para crear y visualizar paletas de colores que funcionen bien en conjunto para tu proyecto.
 
 
+**Monocromático.** La primera idea para seleccionar colores que funcionen bien juntos es seleccionar una paleta monocromática. Esto es trabajar con un matiz, y la variación de tintes, tonos, y sombras.
 
+<div style="text-align: center; margin-top: 20px;">
+  <img src="../img/circulo-monocromatico.png" alt="Círculo Cromático Monocromático" style="max-width: 50%; border-radius: 10px;">
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <div style="background-color: #FA1400; height: 40px; width: 100%;"></div>
+    <div style="background-color: #CF3123; height: 40px; width: 100%;"></div>
+    <div style="background-color: #7A423D; height: 40px; width: 100%;"></div>
+    <div style="background-color: #503735; height: 40px; width: 100%;"></div>
+    <p style="font-size: 0.8em; color: gray;">Paleta monocromática de tonos rojos</p>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <div style="background-color: #00236C; height: 40px; width: 100%;"></div>
+    <div style="background-color: #0050B3; height: 40px; width: 100%;"></div>
+    <div style="background-color: #A7C7E7; height: 40px; width: 100%;"></div>
+    <div style="background-color: #ECF3FF; height: 40px; width: 100%;"></div>
+    <p style="font-size: 0.8em; color: gray;">Paleta monocromática de tonos azul claro</p>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  <div style="flex-basis: 45%; text-align: center;">
+    <div style="background-color: #A60F55; height: 40px; width: 100%;"></div>
+    <div style="background-color: #D6336C; height: 40px; width: 100%;"></div>
+    <div style="background-color: #EF75A3; height: 40px; width: 100%;"></div>
+    <div style="background-color: #FDDDE6; height: 40px; width: 100%;"></div>
+    <p style="font-size: 0.8em; color: gray;">Paleta monocromática de tonos rosados</p>
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <div style="background-color: #004B28; height: 40px; width: 100%;"></div>
+    <div style="background-color: #00713D; height: 40px; width: 100%;"></div>
+    <div style="background-color: #5BB85E; height: 40px; width: 100%;"></div>
+    <div style="background-color: #DAF7E2; height: 40px; width: 100%;"></div>
+    <p style="font-size: 0.8em; color: gray;">Paleta monocromática de tonos verdes</p>
+  </div>
+</div>
+
+
+### **Complementarios:**  
+Los colores que se encuentran en extremos opuestos del círculo cromático se consideran complementarios. Al combinar estos dos colores, puedes expresar contraste e interés. Son difíciles de usar en grandes cantidades, pero por su contraste son muy buenos para resaltar algo, como un llamado de atención.
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  
+  <div style="flex-basis: 40%; text-align: center;">
+    <img src="../img/circulo-complementario.png" alt="Círculo Cromático Complementario" style="max-width: 80%; border-radius: 10px;">
+  </div>
+
+  <div style="flex-basis: 50%; text-align: center;">
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #26469E; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#26469E</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #7096FF; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#7096FF</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #507EB; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#507EB</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #A37F21; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#A37F21</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #EBBF50; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#EBBF50</span>
+    </div>
+    <p style="font-size: 0.8em; color: gray; margin-top: 10px;">Ejemplo de paleta de colores complementarios</p>
+  </div>
+</div>
+
+---
+
+### **Análogos:**  
+Los colores que se encuentran al lado en el círculo cromático son agradables juntos. Son la combinación perfecta, ya que son geniales para cualquier uso, incluso para resaltar y contrastar un elemento específico sin demasiada interrupción.
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  
+  <div style="flex-basis: 40%; text-align: center;">
+    <img src="../img/circulo-analogos.png" alt="Círculo Cromático Análogos" style="max-width: 80%; border-radius: 10px;">
+  </div>
+
+  <div style="flex-basis: 50%; text-align: center;">
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #EBF61E; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#EBF61E</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #D4C419; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#D4C419</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #EBC728; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#EBC728</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #D49F19; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#D49F19</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #F6A31E; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#F6A31E</span>
+    </div>
+    <p style="font-size: 0.8em; color: gray; margin-top: 10px;">Ejemplo de paleta de colores análogos</p>
+  </div>
+</div>
+
+
+### **Triada:**  
+Utiliza tres colores distintos que se encuentran a la misma distancia en el círculo cromático. Esta estrategia crea combinaciones vibrantes y atractivas, pero que son difíciles de implementar a la perfección. Para usar una tríada de forma exitosa, los colores deben estar equilibrados, y se debería usar uno dominante y los otros dos para acentuar.
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  
+  <div style="flex-basis: 40%; text-align: center;">
+    <img src="../img/circulo-triada.png" alt="Círculo Cromático Triada" style="max-width: 80%; border-radius: 10px;">
+  </div>
+
+  <div style="flex-basis: 50%; text-align: center;">
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #9E9424; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#9E9424</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #3BC7EB; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#3BC7EB</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #EBB6D4; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#EBB6D4</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #EB3676; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#EB3676</span>
+    </div>
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 10px;">
+      <div style="background-color: #9E2C54; width: 50px; height: 50px; border-radius: 5px;"></div>
+      <span style="font-family: monospace; font-size: 1.2em;">#9E2C54</span>
+    </div>
+    <p style="font-size: 0.8em; color: gray; margin-top: 10px;">Ejemplo de paleta de colores en triada</p>
+  </div>
+</div>
+
+
+## **3. Elige 2 o 3 colores**
+
+- Debe haber un color predominante que deberías usar en una proporción de un **60%**. Lo podrías utilizar en la cabecera, como fondo en las diferentes secciones, las landing pages, etc.
+- Otro secundario que utilizarías en un **30%** más o menos (fondos de formularios, cajas de llamada a la acción, enlaces, etc.).
+- Por último deberías dejar un color, el más llamativo o potente, para el **10%** restante que generalmente utilizarás para botones o elementos de alto valor estratégico.
+
+<div style="display: flex; width: 100%; height: 50px; border-radius: 10px; overflow: hidden; margin-top: 20px;">
+  <div style="background-color: #2C3E50; width: 60%; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
+    60%
+  </div>
+  
+  <div style="background-color: #3498DB; width: 30%; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
+    30%
+  </div>
+  
+  <div style="background-color: #F39C12; width: 10%; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
+    10%
+  </div>
+</div>
+
+
+## **Actividad de clase 2**
+
+!!! task "Tarea 1: Crea Paletas de Colores"
+    Usando **Figma** como herramienta principal, realiza las siguientes paletas de colores y guárdalas en un documento de Word. 
+    - Monocromática
+    - Complementaria
+    - Análoga
+    - Triada
+
+    **Instrucciones**:
+    1. Crea las paletas de colores directamente en **Figma**.
+    2. Exporta las paletas como imágenes o captura las pantallas de las paletas.
+    3. Guarda las imágenes o capturas en un documento de Word, indicando el tipo de paleta correspondiente.
+
+---
+
+!!! info "Consejo"
+    Recuerda utilizar los conocimientos adquiridos sobre la teoría del color y el círculo cromático para crear paletas que funcionen bien juntas. Figma es ideal para ajustar colores, y te permitirá visualizar la armonía entre los tonos.
+
+---
+
+!!! task "Tarea 2: Crea una paleta de colores a partir de una imagen"
+    Elige una imagen y genera una paleta de colores a partir de ella usando las herramientas de Figma. Puedes usar la opción de **"Eyedropper" (cuentagotas)** en Figma para extraer los colores exactos de la imagen.
+
+    **Instrucciones**:
+    1. Sube una imagen en Figma.
+    2. Utiliza el **cuentagotas** para extraer 3 a 5 colores principales de la imagen.
+    3. Crea una nueva paleta basada en esos colores y guárdala en el mismo documento de Word.
+
+---
+
+!!! tip "Ejemplo de Fuentes"
+    Figma también es excelente para visualizar combinaciones de fuentes. Recuerda elegir **una fuente para los títulos** y **otra para el texto**. Algunas combinaciones comunes son:
+    - Títulos: **Roboto Bold**, Texto: **Roboto Regular**
+    - Títulos: **Montserrat Bold**, Texto: **Open Sans Regular**
+
+---
+
+!!! task "Tarea 3: Selección de fuentes"
+    - Busca 2 fuentes que utilizarías en tu página web: **una para los títulos y otra para el texto**.
+    - Añádelas al documento de Word que estás creando con las paletas de colores.
+
+    **Instrucciones**:
+    1. Elige fuentes directamente en Figma o busca en sitios como Google Fonts.
+    2. Inserta ejemplos de las fuentes en tu documento, explicando por qué elegiste cada una.
+
+!!! success "Objetivo"
+    El objetivo de esta actividad es que practiques el uso de herramientas como **Figma** para desarrollar paletas de colores efectivas y seleccionar fuentes adecuadas para tu proyecto web.

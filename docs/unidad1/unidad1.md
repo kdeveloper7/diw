@@ -1130,31 +1130,41 @@ Utiliza tres colores distintos que se encuentran a la misma distancia en el cír
 ## **Actividad de clase 2**
 
 !!! task "Tarea 1: Crea Paletas de Colores"
-    Usando **Figma** como herramienta principal, realiza las siguientes paletas de colores y guárdalas en un documento de Word. 
-    - Monocromática
-    - Complementaria
-    - Análoga
-    - Triada
+    Usando **Figma** como herramienta principal, realiza las siguientes paletas de colores y guárdalas en un documento de Word.
+    <ul>
+        <li>Monocromática</li>
+        <li>Complementaria</li>
+        <li>Análoga</li>
+        <li>Triada</li>
+    </ul>
 
-    **Instrucciones**:
-    1. Crea las paletas de colores directamente en **Figma**.
-    2. Exporta las paletas como imágenes o captura las pantallas de las paletas.
-    3. Guarda las imágenes o capturas en un documento de Word, indicando el tipo de paleta correspondiente.
+    <h4>Instrucciones:</h4>
+    <ol>
+        <li>Crea las paletas de colores directamente en <strong>Figma</strong>.</li>
+        <li>Crea las dos primeras paletas de colores y guárdalas como estilos locales, las otras dos como librería de variables.</li>
+        <li>Exporta las paletas como archivo pdf.</li>
+        <li>Comparte el enlace de tu proyecto figma a cualquiera que tenga el enlace, únicamente como visualizador y no como editor.</li>
+        <li>Tanto el enlace, el pdf y las capturas debes registrarlas en un documento de google docs.</li>
+    </ol>
+
 
 ---
 
 !!! info "Consejo"
-    Recuerda utilizar los conocimientos adquiridos sobre la teoría del color y el círculo cromático para crear paletas que funcionen bien juntas. Figma es ideal para ajustar colores, y te permitirá visualizar la armonía entre los tonos.
+    Recuerda utilizar los conocimientos adquiridos sobre la teoría del color y el círculo cromático como el de [Adobe](https://color.adobe.com/es/create/color-wheel) para crear paletas que funcionen bien juntas. Figma es ideal para ajustar colores, y te permitirá visualizar la armonía entre los tonos.
 
 ---
 
 !!! task "Tarea 2: Crea una paleta de colores a partir de una imagen"
     Elige una imagen y genera una paleta de colores a partir de ella usando las herramientas de Figma. Puedes usar la opción de **"Eyedropper" (cuentagotas)** en Figma para extraer los colores exactos de la imagen.
 
-    **Instrucciones**:
-    1. Sube una imagen en Figma.
-    2. Utiliza el **cuentagotas** para extraer 3 a 5 colores principales de la imagen.
-    3. Crea una nueva paleta basada en esos colores y guárdala en el mismo documento de Word.
+    <h4>Instrucciones:</h4>
+    <ol>
+      <li>Sube una imagen en Figma.</li>
+      <li>Utiliza el **cuentagotas** para extraer 3 a 5 colores principales de la imagen.</li>
+      <li>En un frame llamado colores imagen crea la paleta de coloresy guárdalos en una librería.</li>
+      
+    </ol>
 
 ---
 

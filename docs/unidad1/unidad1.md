@@ -1144,7 +1144,7 @@ Utiliza tres colores distintos que se encuentran a la misma distancia en el cír
         <li>Crea las dos primeras paletas de colores y guárdalas como estilos locales, las otras dos como librería de variables.</li>
         <li>Exporta las paletas como archivo pdf.</li>
         <li>Comparte el enlace de tu proyecto figma a cualquiera que tenga el enlace, únicamente como visualizador y no como editor.</li>
-        <li>Tanto el enlace, el pdf y las capturas debes registrarlas en un documento de google docs.</li>
+        <li>Tanto el enlace, el pdf y las capturas  debes registrarlas en un documento de google docs.</li>
     </ol>
 
 
@@ -1168,12 +1168,75 @@ Utiliza tres colores distintos que se encuentran a la misma distancia en el cír
 
 ---
 
+
+# **1.2. Color, Tipografía, Iconos**
+
+## **Tipografía**
+
+!!! info "Definición de Tipografía"
+    La **TIPOGRAFÍA** es el tipo de fuente que se utiliza en un diseño de interfaces.
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <div style="flex-basis: 45%; text-align: center; background-color: #f28c28; color: white; padding: 20px; border-radius: 10px;">
+    La TIPOGRAFÍA es el tipo de fuente que se utiliza en un diseño de interfaces
+  </div>
+
+  <div style="flex-basis: 45%; text-align: center;">
+    <img src="../img/typography-example.png" alt="Ejemplo de Tipografía" style="max-width: 100%; border-radius: 10px;">
+    <p style="font-size: 0.8em; color: gray;">Las letras pueden variar mucho según el tipo, tanto en la forma, el grosor como en los remates que tiene cada una de ellas.</p>
+  </div>
+</div>
+
+!!! tip "Variedad en las Fuentes"
+    Las letras pueden variar mucho según el tipo, tanto en la forma, el grosor como en los remates que tiene cada una de ellas.
+
+
 !!! tip "Ejemplo de Fuentes"
     Figma también es excelente para visualizar combinaciones de fuentes. Recuerda elegir **una fuente para los títulos** y **otra para el texto**. Algunas combinaciones comunes son:
     - Títulos: **Roboto Bold**, Texto: **Roboto Regular**
     - Títulos: **Montserrat Bold**, Texto: **Open Sans Regular**
 
----
+
+## **1.2. Tipografía**
+
+La infinidad de tipos existentes pueden agruparse en distintas familias según varios criterios:
+
+### **Serif**: Fuentes cuyos caracteres tienen un adorno en los remates
+<div style="text-align: center;">
+  <span style="font-family: Garamond, serif;">Garamond</span>
+  <span style="font-family: 'Times New Roman', serif; margin-left: 20px;">Times New Roman</span>
+  <span style="font-family: Courier, serif; margin-left: 20px;">Courier</span>
+</div>
+
+### **Sans-serif** (sin serif): Fuentes que no tienen remates.
+<div style="text-align: center;">
+  <span style="font-family: Arial, sans-serif;">Arial</span>
+  <span style="font-family: Verdana, sans-serif; margin-left: 20px;">Verdana</span>
+  <span style="font-family: Calibri, sans-serif; margin-left: 20px;">Calibri</span>
+</div>
+
+### **Script**: Fuentes que imitan la escritura manual. Su legibilidad es escasa.
+<div style="text-align: center;">
+  <span style="font-family: 'Edwardian Script ITC', cursive;">Edwardian Script</span>
+  <span style="font-family: 'French Script MT', cursive; margin-left: 20px;">French Script</span>
+  <span style="font-family: 'Segoe Script', cursive; margin-left: 20px;">Segoe Script</span>
+</div>
+
+### **Decorativa**: Estilo informal y creada con fines muy específicos.
+<div style="text-align: center;">
+  <span style="font-family: Candy, fantasy;">Candy</span>
+  <span style="font-family: Circus, fantasy; margin-left: 20px;">Circus</span>
+  <span style="font-family: Nature, fantasy; margin-left: 20px;">Nature</span>
+</div>
+
+## **Fuentes Web**
+
+- Es posible utilizar en la web cualquier tipo de fuente siempre que se ponga a disposición de los navegadores los ficheros con las definiciones de las mismas. Con el objeto de que funcionen correctamente en cualquier cliente, se suelen incluir varios ficheros, de tal forma que se cubren todas las variedades del sistema.
+
+### **Repositorios de fuentes**:
+- [https://www.google.com/fonts](https://www.google.com/fonts)
+- [https://www.dafont.com](https://www.dafont.com)
+
 
 !!! task "Tarea 3: Selección de fuentes"
     - Busca 2 fuentes que utilizarías en tu página web: **una para los títulos y otra para el texto**.

@@ -882,7 +882,7 @@ Inserta los valores de color en RGB y observa cómo cambia el color en tiempo re
 
 ---
 
-## **1.2.5 Reglas para Crear tu Paleta de Colores**
+### **1.2.6 Reglas para Crear tu Paleta de Colores**
 
 !!! tip "Reglas Básicas para una Paleta de Colores"
     Sigue estas 3 reglas para crear una paleta de colores equilibrada y visualmente atractiva.
@@ -1106,7 +1106,7 @@ Utiliza tres colores distintos que se encuentran a la misma distancia en el cír
 </div>
 
 
-## **3. Elige 2 o 3 colores**
+### **3. Elige 2 o 3 colores**
 
 - Debe haber un color predominante que deberías usar en una proporción de un **60%**. Lo podrías utilizar en la cabecera, como fondo en las diferentes secciones, las landing pages, etc.
 - Otro secundario que utilizarías en un **30%** más o menos (fondos de formularios, cajas de llamada a la acción, enlaces, etc.).
@@ -1239,12 +1239,266 @@ La infinidad de tipos existentes pueden agruparse en distintas familias según v
 
 
 !!! task "Tarea 3: Selección de fuentes"
-    - Busca 2 fuentes que utilizarías en tu página web: **una para los títulos y otra para el texto**.
+    - Busca 2 fuentes que utilizarías en tu página web: **una para los títulos (lleva a cabo una jerarquía de títulos H1 hasta H3, en el mismo orden descendente bold, semibold ) y otra para el texto de párrafo en regular**.
     - Añádelas al documento de Word que estás creando con las paletas de colores.
 
-    **Instrucciones**:
-    1. Elige fuentes directamente en Figma o busca en sitios como Google Fonts.
-    2. Inserta ejemplos de las fuentes en tu documento, explicando por qué elegiste cada una.
+    - **Instrucciones**:
+    - **1. Elige fuentes directamente en Figma o busca en sitios como Google Fonts.**
+    - **2. Inserta ejemplos de las fuentes en tu documento, explicando por qué elegiste cada una.**
+    - **3. Ten en cuenta que es recomendable usar tamaños de fuente que sean múltiplos de 4, para el H1 usa 48px para el H1 y disminúyelo de forma proporcional.**
+    - **4. Crea estilos para las fuentes en Figma, esto ayudará a familiarizarte con los sistemas de diseño.**
 
 !!! success "Objetivo"
     El objetivo de esta actividad es que practiques el uso de herramientas como **Figma** para desarrollar paletas de colores efectivas y seleccionar fuentes adecuadas para tu proyecto web.
+
+# **1.2. Color, Tipografía, Iconos**
+## **Iconos**
+
+!!! info "Definición de Icono"
+    Un **icono** es un signo que mantiene una relación de semejanza con el objeto representado.
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 20px;">
+  <div style="flex-basis: 25%; text-align: center; background-color: #f28c28; color: white; padding: 20px; border-radius: 10px;">
+    Representación: <br> Es una forma representativa de algo del mundo real.
+  </div>
+  
+  <div style="flex-basis: 25%; text-align: center; background-color: #a3cf7d; color: white; padding: 20px; border-radius: 10px;">
+    Significado: <br> El mensaje transmitido por el icono genera una imagen conceptual.
+  </div>
+  
+  <div style="flex-basis: 25%; text-align: center; background-color: #668b6e; color: white; padding: 20px; border-radius: 10px;">
+    Función: <br> Logra atraer la atención del usuario y transmite el mensaje rápidamente.
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px; font-size: 30px;">
+  <i class="fas fa-home" style="color: #f28c28;"></i>
+  <i class="fas fa-shopping-cart" style="color: #f28c28;"></i>
+  <i class="fas fa-envelope" style="color: #f28c28;"></i>
+  <i class="fas fa-search" style="color: #f28c28;"></i>
+</div>
+
+
+## **Iconos**
+
+> **Importancia de los Iconos**
+> 
+> La elección de los iconos es crucial en el diseño de interfaces, ya que deben ser entendidos fácilmente por el usuario.
+> 
+> - **Elección adecuada de iconos**: Si un usuario no es capaz de entender el significado de un icono a primera vista, no habremos logrado el objetivo de facilitar la navegación.
+> - **Usar iconos familiares**: Utiliza iconos a los que los usuarios ya están acostumbrados para evitar confusiones.
+> - **Evitar iconos sin significado**: No uses iconos solo para adornar la página si no aportan un valor significativo.
+
+---
+
+### **Ejemplos de iconos comunes**
+
+- ![home](https://img.icons8.com/ios-glyphs/30/000000/home.png) Página de inicio
+- ![carrito](https://img.icons8.com/ios-glyphs/30/000000/shopping-cart.png) Carrito de compras
+- ![correo](https://img.icons8.com/ios-glyphs/30/000000/new-post.png) Correo
+- ![lupa](https://img.icons8.com/ios-glyphs/30/000000/search.png) Buscar
+
+!!! tip "Iconos en Figma"
+    En **Figma** se puede utilizar el plugin de Iconify para agregar íconos a nuestro sistema de diseño o se puede utilizar la tipografía **Font Awesome Free o Brands 5, tanto en regular como en solid** y utilizar la sintaxis que está en este [enlace](https://fontawesome.com/v5/search) para agregar íconos .
+
+
+## **1.2. Color, Tipografía, Iconos**
+
+## **Iconos**
+
+### Reglas de estilo
+
+- Usar los estándares existentes (lupa para buscar, etc.)
+- Crear iconos reconocibles fácilmente por su significado.
+- Dar profundidad a los diseños para mejorar la percepción.
+- Ser consistente en todo el proyecto.
+- Tener en cuenta la significación entre culturas.
+- Crear varias familias de iconos y hacer pruebas con usuarios.
+- No usarlos en funciones críticas.
+
+---
+
+### Ejemplos de iconos
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/user.png" alt="User">
+  
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/search.png" alt="Search">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/lock.png" alt="Lock">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/star.png" alt="Star">
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/home.png" alt="Home">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email">
+ 
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/chat.png" alt="Chat">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/wallet.png" alt="Wallet">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/gift.png" alt="Gift">
+</div>
+
+---
+
+### Consideraciones finales
+
+Es importante seguir estas reglas para asegurar una buena experiencia de usuario con iconos claros y consistentes a lo largo del proyecto.
+### Fuentes Web
+
+- En los siguientes enlaces podrás descargar iconos bastante elaborados, algunos de los cuales son gratuitos.
+    - [http://www.webiconset.com](http://www.webiconset.com)
+    - [https://www.flaticon.es](https://www.flaticon.es)
+
+- Herramienta para crear iconos:
+    - [http://www.xiconeditor.com](http://www.xiconeditor.com)
+
+- Herramienta para utilizar iconos ya creados en tu web:
+    - [https://fontawesome.com](https://fontawesome.com)
+
+
+# **1.3. Interacción Persona - Ordenador (IPO)**
+
+!!! note "Definición de IPO"
+    La **IPO (Interacción Persona-Ordenador)** es la disciplina que estudia el intercambio de información entre las personas y los ordenadores. Cuando hay una buena comunicación entre el usuario y el ordenador el intercambio de información es más eficiente, se reducen los errores y aumenta la satisfacción del usuario.
+
+- Hoy en día, la mayor parte de los sistemas informáticos son sistemas interactivos y su éxito o fracaso depende, en gran medida, de la interfaz persona-ordenador. Por este motivo, la interfaz tiene que estar diseñada pensando en las necesidades del usuario.
+  
+- Debemos tener en cuenta que cada día aumenta el número de personas que utilizan el ordenador, que estas personas se enfrentan a la interacción con el ordenador con diferentes grados de preparación y con distintas expectativas.
+
+# **1.4 Sistemas de Diseño**
+
+Un **sistema de diseño** es un conjunto de herramientas, principios y componentes reutilizables que permiten diseñar y desarrollar productos digitales de forma coherente y escalable. Estos sistemas aseguran que tanto el diseño visual como la experiencia del usuario y el código se mantengan alineados.
+
+!!! info "Relación entre Guías de Estilo y Sistemas de Diseño"
+    Las **guías de estilo** forman parte de los **sistemas de diseño**, pero estos últimos abarcan mucho más que solo aspectos visuales. Un sistema de diseño también se ocupa de la funcionalidad, interacción y comportamiento de los componentes dentro del diseño digital.
+
+## **1.4.1 Elementos Clave de un Sistema de Diseño**
+- **Componentes reutilizables**: Botones, formularios, menús y otros elementos de la interfaz que se utilizan repetidamente para garantizar consistencia visual y funcional.
+- **Guías de estilo**: Describen el uso correcto de tipografías, colores, iconografía, espaciados y otros elementos visuales.
+- **Tokens de diseño**: Variables que definen los colores, fuentes, tamaños y espaciados en la interfaz. Permiten cambios globales fáciles en el sistema.
+- **Documentación**: Asegura que los equipos sepan cómo implementar y utilizar los componentes y patrones de diseño.
+
+## **1.4.2 Diferencias entre Sistemas de Diseño y Guías de Estilo**
+La **guía de estilo** se enfoca en los aspectos visuales (colores, fuentes, iconografía), mientras que el **sistema de diseño** es más amplio e incluye no solo la estética, sino también la funcionalidad y la interacción entre los componentes.
+
+> Fuente: [Design Systems vs Style Guides](https://www.nngroup.com/articles/design-systems-vs-style-guides/)
+
+
+
+!!! note "Sistema de Diseño"
+    El **sistema de Diseño** permite definir un conjunto mayor de información que la guía de estilos
+
+    <div style="flex-basis: 45%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/design-system.png" alt="tipo de colores" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    </div>
+<div style="flex-basis: 45%; text-align: center;">
+    <a href="#" target="_blank">
+      <img src="../img/design-system-2.png" alt="tipo de colores" style="max-width: 100%; border-radius: 10px;">
+    </a>
+    </div>
+
+## **1.4.3 Herramientas para Crear Sistemas de Diseño**
+- **Figma**: Plataforma colaborativa para el diseño de interfaces.
+- **Zeplin**: Herramienta que permite compartir y generar guías de estilo automáticamente desde los diseños.
+- **Storybook**: Herramienta para desarrollar componentes UI de manera aislada y documentar el sistema de diseño.
+
+# **1.5 Guías de Estilo**
+
+!!! note "Las Guías de Estilo dentro del Sistema de Diseño"
+    Una **guía de estilo** es un conjunto de directrices visuales que forman parte de un sistema de diseño. Estas guías definen cómo debe ser el uso de elementos como tipografías, colores, espaciados y otros componentes visuales para garantizar una coherencia en todo el diseño.
+
+## **1.5.1 Desarrollo de una Guía de Estilo**
+Los elementos principales para desarrollar una **guía de estilo** son:
+
+  - **Marca**: Estudiar la identidad visual de la empresa o el proyecto.
+  - **Tipografía**: Decidir qué tipografías se utilizarán (1 o 2 fuentes).
+  - **Colores**: Seleccionar una paleta de colores consistente (2 o 3 colores).
+  - **Iconos**: Seleccionar un set de iconos coherente para toda la web.
+  - **Tono**: Definir el lenguaje que se utilizará para dirigirse al usuario.
+  - **Imágenes**: Seleccionar imágenes que aporten información y coherencia visual.
+  - **Controles de Formularios**: Definir el estilo de botones, cajas de texto y otros elementos interactivos.
+  - **Elementos de Interfaz**: Definir estilos para listas, tablas, paneles, menús, etc.
+
+
+
+# Práctica 1.1: Creación de un Sistema de Diseño y Prototipo en Figma
+
+> Diseño de Interfaces Web. 
+
+**Objetivo**: Los alumnos deberán crear un sistema de diseño completo en Figma que incluya una paleta de colores, tipografías, iconos, componentes y variables. Además, diseñarán un prototipo de al menos dos páginas conectadas por un botón de navegación. Todos los elementos del prototipo deben estar vinculados a las variables del sistema de diseño.
+
+La temática será sobre una web de una casa rural, en las montañas de los alpes suizos que alquila por días su estancia a turistas.
+
+## Instrucciones:
+
+1. **Sistema de Diseño**
+   - Crea un Sistema de Diseño en Figma que incluya los siguientes elementos:
+     - **Paleta de colores**: Define al menos tres colores principales (primario, secundario, y acento). Estos deben estar declarados como variables globales para que puedan ser utilizados en todo el diseño.
+     - **Tipografía**: Selecciona dos tipografías para usar en tu diseño (una para encabezados y otra para textos de párrafo). Establece el tamaño, peso, y estilo de la tipografía, y utiliza variables para gestionar estas propiedades.
+     - **Iconos**:
+       - Elige un conjunto de iconos consistentes y apropiados para tu diseño (pueden ser de una librería externa o creados por ti).
+       - Los iconos deben estar correctamente integrados como parte de tu sistema de diseño, utilizando variables para tamaños y colores.
+       - Crea al menos un componente que combine iconos con texto o botones.
+     - **Componentes**:
+       - Crea al menos dos componentes reutilizables (por ejemplo: un botón y un campo de entrada). Estos componentes deben heredar las variables de color, tipografía e iconos que has definido.
+       - Asegúrate de que los estados del botón (normal, hover, clicado) también se gestionen a través de variables.
+     - **Grid y Espaciado**: Establece una rejilla (grid) y margenes/espaciado para tu sistema. Declara variables para definir el espaciado entre elementos, tanto en el eje vertical como horizontal.
+
+2. **Prototipo en Figma**
+   - Diseña **dos páginas** en Figma que estarán conectadas entre sí a través de la navegación de un botón.
+    - **Página 0**: Diseña una página con un frame de portada del proyecto.
+     - **Página 1**: Diseña una página de bienvenida o una pantalla principal (por ejemplo: una landing page o dashboard).
+     - **Página 2**: Crea una segunda página que se pueda acceder desde la primera. Esta página puede ser una página de información adicional, un formulario, etc.
+   - **Interacción**: Añade una interacción en el botón de la primera página para que, al hacer clic, navegue a la segunda página.
+   
+3. **Uso de Variables**:
+   - Asegúrate de que **todos los elementos** de tu diseño (colores, tipografías, componentes, iconos, etc.) utilicen las variables que has declarado en el sistema de diseño. El objetivo es que cualquier cambio en las variables afecte automáticamente a todos los elementos conectados.
+
+4. **Documentación**:
+   - Documenta el Sistema de Diseño explicando cómo has definido cada variable, los colores, las tipografías, los iconos, los componentes, etc.
+   - Explica cómo el prototipo utiliza el sistema de diseño y las variables definidas.
+
+## Entregables:
+- Archivo de Figma con el Sistema de Diseño completo y el prototipo de dos páginas.
+- Documento explicativo que describa las decisiones de diseño y la utilización de variables.
+
+## Criterios de Evaluación:
+1. **Correcta definición del Sistema de Diseño**: Uso de variables, paleta de colores, tipografías, iconos y componentes.
+2. **Prototipo funcional**: Navegación entre las dos páginas correctamente implementada.
+3. **Consistencia**: Todos los elementos del diseño deben estar vinculados a las variables establecidas.
+4. **Documentación**: Explicación clara y completa del sistema de diseño.
+
+---
+
+# Rúbrica de Evaluación - Creación de Sistema de Diseño y Prototipo en Figma
+
+| **Criterio**                        | **Descripción**                                                                                                                                          | **Puntos** |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| **Sistema de Diseño (Total: 50 puntos)** |                                                                                                                                                          |            |
+| **Paleta de colores (10 puntos)**   | - Se define una paleta de colores con variables.                                                                                                          | 0-10       |
+| **Tipografía (10 puntos)**          | - Selección de tipografías y correcta declaración de variables para tamaño, peso y estilo.                                                                | 0-10       |
+| **Iconos (10 puntos)**              | - Selección de un conjunto de iconos coherente. <br> - Declaración de variables para tamaños y colores de los iconos. <br> - Integración en componentes.   | 0-10       |
+| **Componentes reutilizables (10 puntos)** | - Se crean componentes que heredan variables de colores, tipografía e iconos.                                                                            | 0-10       |
+| **Grid y espaciado (10 puntos)**    | - Uso de una rejilla y declaración de variables para márgenes y espaciados.                                                                               | 0-10       |
+| **Prototipo funcional (Total: 30 puntos)** |                                                                                                                                                          |            |
+| **Diseño de las páginas (15 puntos)** | - Dos páginas visualmente coherentes aplicando el sistema de diseño.                                                                                      | 0-15       |
+| **Interacciones y navegación (15 puntos)** | - Navegación correcta entre las dos páginas mediante un botón.                                                                                           | 0-15       |
+| **Uso de variables (Total: 10 puntos)** |                                                                                                                                                          |            |
+| **Consistencia en el uso de variables (10 puntos)** | - Todos los elementos están correctamente vinculados a las variables del sistema de diseño.                                                              | 0-10       |
+| **Documentación (Total: 10 puntos)** |                                                                                                                                                          |            |
+| **Explicación del sistema de diseño (5 puntos)** | - Explicación clara sobre cómo se definieron colores, tipografías, iconos y componentes.                                                                 | 0-5        |
+| **Explicación del prototipo (5 puntos)** | - Explicación clara de cómo se utiliza el sistema de diseño y las variables en el prototipo.                                                             | 0-5        |
+
+---
+
+## Escala de Evaluación
+
+- **Excelente (90-100 puntos)**: Todos los elementos del sistema de diseño están bien definidos, incluidos los iconos, y se aplican correctamente en el prototipo. Documentación clara y detallada.
+- **Notable (70-80 puntos)**: La mayoría de los aspectos están bien implementados. El sistema de diseño, incluidos los iconos, es funcional, aunque con algunos pequeños detalles mejorables.
+- **Aprobado (50-70 puntos)**: Se cumple con lo básico, pero hay algunos errores o faltan detalles en la implementación de los iconos o el uso de variables.
+- **Insuficiente (<50 puntos)**: Faltan varios elementos clave en el sistema de diseño o en el prototipo. Los iconos no están integrados correctamente o falta la vinculación con variables.
+
+
+!!! tip "Iconos en Figma"
+    Puedes utilizar los recursos del grupo VD2AW de Figma, puedes seguir el curso de este [enlace](https://www.youtube.com/watch?v=gf5Fo1-TirA&list=PLn0hMxaLHQ2QID4xMotwNKXytv2pNLgVE&index=1)  el cual recoge los conceptos básicos vistos en clase 

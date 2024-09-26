@@ -1500,5 +1500,5 @@ La temática será sobre una web de una casa rural, en las montañas de los alpe
 - **Insuficiente (<50 puntos)**: Faltan varios elementos clave en el sistema de diseño o en el prototipo. Los iconos no están integrados correctamente o falta la vinculación con variables.
 
 
-!!! tip "Iconos en Figma"
+!!! tip "Recursos"
     Puedes utilizar los recursos del grupo VD2AW de Figma, puedes seguir el curso de este [enlace](https://www.youtube.com/watch?v=gf5Fo1-TirA&list=PLn0hMxaLHQ2QID4xMotwNKXytv2pNLgVE&index=1)  el cual recoge los conceptos básicos vistos en clase 

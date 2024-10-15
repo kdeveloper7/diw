@@ -19,13 +19,13 @@ Al inicio de cada unidad, deberás crear un documento en **Google Docs** en el q
 **Importante:** Debes tener todas las actividades resueltas al finalizar cada unidad, ya que será un requisito para poder realizar la prueba objetiva correspondiente.
 
 ### **2. Ejercicios propuestos**
-Al final de cada unidad, se te asignará un **Google Docs colaborativo** donde, en grupos, deberán resolver algunos ejercicios. Cada estudiante tendrá la oportunidad de aportar una solución a uno o varios ejercicios, y posteriormente los revisaremos y debatiremos juntos en clase, como parte de la **retroalimentación**. Este proceso no solo te ayudará a entender mejor los conceptos, sino que también será un espacio para compartir y discutir diferentes enfoques y soluciones.
+Al final o durante de cada unidad, se te asignará un **Google Docs colaborativo** o algún curso donde, en grupos o individual, deberán resolver algunos ejercicios. Cada estudiante tendrá la oportunidad de aportar una solución a uno o varios ejercicios, y posteriormente los revisaremos y debatiremos juntos en clase, como parte de la **retroalimentación**. Este proceso no solo te ayudará a entender mejor los conceptos, sino que también será un espacio para compartir y discutir diferentes enfoques y soluciones.
 
 ### **3. Elaboración de preguntas del examen**
 Una de las formas en que te prepararás para la prueba teórica será creando las preguntas tú mismo. A cada estudiante, o a un grupo de estudiantes, se le asignará una parte del temario para que formulen **Algunas preguntas tipo test**. Estas preguntas serán revisadas y seleccionadas para la prueba objetiva final. De esta manera, no solo te prepararás al estudiar el material, sino que también tendrás una visión profunda de los temas al formular preguntas que podrían aparecer en la prueba objetiva. Esta actividad será muy útil para consolidar el aprendizaje y servirá como material preparatorio para toda la clase.
 
-### **4. Práctica Global**
-Antes de cada unidad de trabajo, llevarás a cabo una **práctica global** o **supuesto práctico**, el cual será evaluado de forma individual con una rúbrica. Este ejercicio o proyecto te ayudará a consolidar los conocimientos adquiridos durante la unidad.
+### **4. Prácticas Globales**
+Durante cada unidad de trabajo, llevarás a cabo una o varias **prácticas globales** o **supuestos prácticos**, los cuales serán evaluados de forma individual o grupal con una rúbrica. Estos proyectos te ayudará a consolidar los conocimientos adquiridos durante la unidad.
 
 ### **5. Prueba Objetiva final**
 La prueba objetiva final será realizada de una o varias unidades de trabajo y podrá tener el formato de proyecto, examen o trabajo escrito según lo vea conveniente el profesor para el beneficio del los alumnos:
